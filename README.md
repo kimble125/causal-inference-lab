@@ -58,7 +58,7 @@ causal-inference-lab/
 
 ## References
 
-- **Lectures**: 가짜연구소(Pseudo-Lab) 10기 Marketing Science 스터디 (by 권남택, 유연승, 조보연, 최지환)
+- **Lectures**: 가짜연구소(Pseudo-Lab) 10기 Marketing Science 스터디 (with 권남택, 유연승, 조보연, 최지환)
 - **Books**:
   - *Causal Inference in Python* (2023) by Matheus Facure
   - *Data Science for Marketing Analytics* (2020) by Tommy Blanchard, et al.
